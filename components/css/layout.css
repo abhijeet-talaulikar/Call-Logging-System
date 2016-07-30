@@ -1,0 +1,30 @@
+div.post {
+padding-left:100px;
+}
+
+table#new_issue tr td{
+	padding:20px;
+	width: 190px;
+	vertical-align:top;
+	text-align: left;
+	color:#777;
+	font-family: sans-serif;
+}
+
+table#new_issue tr th{
+	padding:20px;
+	width: 190px;
+	vertical-align:top;
+	text-align: left;
+	color:#777;
+	font-family: sans-serif;
+}
+
+table#list {
+	width:800px;
+}
+
+table#list td {
+	padding:15px;
+}
+
